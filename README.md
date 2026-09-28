@@ -20,3 +20,12 @@ An advanced, fully-automated **Loot Drop / Mystery Box** system for Discord serv
 - 📊 **Chance Checker**: Command `!mysterybox chances` to view drop rates.
 
 ---
+
+## ⚙️ Configuration Variables
+Make sure to adjust the following variables at the top of CC #38 and CC #40:
+- $staffChannelID: Channel ID for staff notifications.
+- $staffRoleID: Role ID to ping staff members upon a win.
+- $vipRoleID: Role ID assigned to VIP winners.
+- $adminID: Specific Admin User ID for testing without cooldowns.
+- $removeVIPCCID: ID of CC #2.
+- $animCCID: ID of CC #3.
