@@ -1,3 +1,4 @@
+2. Custom Command #2
 Trigger Type: None (Executed via scheduleUniqueCC)
 
 ```gototemplate
