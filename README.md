@@ -29,4 +29,4 @@ Make sure to adjust the following variables at the top of CC #2 and CC #3:
 - `$adminID:` Specific Admin User ID for testing without cooldowns.
 - `$removeVIPCCID:` ID of CC #2.
 - `$animCCID:` ID of CC #3.
-- `** MAKE SURE TO CHANGE ALL TEXTS FROM GAMECENTRAL TO YOUR SERVER**`
+- `** MAKE SURE TO CHANGE ALL TEXTS FROM GAMECENTRAL TO YOUR SERVER **`
