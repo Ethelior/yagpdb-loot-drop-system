@@ -22,7 +22,7 @@ An advanced, fully-automated **Loot Drop / Mystery Box** system for Discord serv
 ---
 
 ## ⚙️ Configuration Variables
-Make sure to adjust the following variables at the top of CC #38 and CC #40:
+Make sure to adjust the following variables at the top of CC #2 and CC #3:
 - $staffChannelID: Channel ID for staff notifications.
 - $staffRoleID: Role ID to ping staff members upon a win.
 - $vipRoleID: Role ID assigned to VIP winners.
