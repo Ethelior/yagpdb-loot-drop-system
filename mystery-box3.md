@@ -6,7 +6,7 @@
 {{/* --- GameCentral Animation Steps & Result (CC #40) --- */}}
 {{ $staffChannelID := 1379145901318344844 }}
 {{ $staffRoleID := 1400716156930621480 }} {{$vipRoleID := 1394846017396015181 }}
-{{ $removeVIPCCID := 39 }} {{$animCCID := 40 }}
+{{ $removeVIPCCID := 2 }} {{$animCCID := 40 }}
 
 {{ $data := .ExecData }}
 {{ $userMention := printf "<@\%d>" $data.userID }}
